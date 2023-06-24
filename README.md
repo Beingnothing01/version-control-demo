@@ -14,3 +14,8 @@ Here are some key reasons why version control is essential:
 * **Continuous integration and deployment**: Version control is often integrated with continuous integration and deployment (CI/CD) systems. This integration allows for automated testing, building, and deployment processes, ensuring that only well-tested and stable code is deployed to production environments.
 * **Documentation and collaboration**: Version control systems typically include features like commit messages, comments, and annotations, allowing developers to document their changes, explain their thought process, and provide context to other team members. This documentation fosters better collaboration and knowledge sharing.
 * **Traceability and accountability**: Version control provides traceability by attributing each change to a specific person, helping track who made what modifications. This accountability is valuable for project management, code reviews, and auditing purposes.
+
+
+##Changing the file in local machine
+
+Make changes
