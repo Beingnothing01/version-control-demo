@@ -62,6 +62,15 @@ Finally, you have made your first push from your local machine to Github globall
 
 
 
-## Changing the file in local machine
+## Creating Repository Locally and pushing to Github
 
-Make changes
+* Step1: Create a repository locally, create a file inside the repo, add desc
+* Step2: Go to the created repo on terminal and run ```git init```
+* Step 3: ```git status```
+* Step 4: ```git commit -m "Title" -m "Desc"```
+* Step 5: Now, in order to push the commited changes on github, you need to build a connection by cretaing a Repo on Github with the name same as Repo creted now. Create Repo on Github and copy the repo clone link.
+* Step 6: ```git remote add orign <repo clone link>```
+* Step 7: ```git remote -v```
+* Step 8: Push the commited changes. ```git push -u origin master```
+
+  Now, you have pushed a local repo on Github.
