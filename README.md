@@ -16,6 +16,6 @@ Here are some key reasons why version control is essential:
 * **Traceability and accountability**: Version control provides traceability by attributing each change to a specific person, helping track who made what modifications. This accountability is valuable for project management, code reviews, and auditing purposes.
 
 
-##Changing the file in local machine
+## Changing the file in local machine
 
 Make changes
